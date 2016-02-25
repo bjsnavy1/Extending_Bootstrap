@@ -1,0 +1,5 @@
+E:\Smith Family\Brian\Ps-Exercise-Files\Extending Bootstrap\5-extending-bootstrap-css-javascript-jquery-m5-exercise-files\MusicSite\bin\MusicSite.dll
+E:\Smith Family\Brian\Ps-Exercise-Files\Extending Bootstrap\5-extending-bootstrap-css-javascript-jquery-m5-exercise-files\MusicSite\bin\MusicSite.pdb
+E:\Smith Family\Brian\Ps-Exercise-Files\Extending Bootstrap\5-extending-bootstrap-css-javascript-jquery-m5-exercise-files\MusicSite\obj\Debug\MusicSite.csprojResolveAssemblyReference.cache
+E:\Smith Family\Brian\Ps-Exercise-Files\Extending Bootstrap\5-extending-bootstrap-css-javascript-jquery-m5-exercise-files\MusicSite\obj\Debug\MusicSite.dll
+E:\Smith Family\Brian\Ps-Exercise-Files\Extending Bootstrap\5-extending-bootstrap-css-javascript-jquery-m5-exercise-files\MusicSite\obj\Debug\MusicSite.pdb
